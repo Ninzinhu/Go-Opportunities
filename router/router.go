@@ -1,6 +1,9 @@
 package router
 
-import "github.com/gin-gonic/gin"
+import (
+	"github.com/gin-gonic/gin"
+	"github.com/Ninzinhu/Go-Opportunities/handler"
+)
 
 
 func  Initialize(){
